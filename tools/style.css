@@ -42,6 +42,7 @@ padding: 111px 24px 0 27px;
 width: 550px;
 float: right;
 margin-top: 120px;
+color: #ffffff
 }
 
 h1{
@@ -98,8 +99,8 @@ float: left;
 }
 
 .coming_soon{
-width: 345px;
-float: left;
+
+float: center;
 padding: 0 0 0 34px;
 }
 
